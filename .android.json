@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "landscape", "package": "com.steinapps.helicopter", "include_pil": false, "name": "Helicopter", "icon_name": "Helicopter", "version": "1.0", "permissions": ["SCREEN"], "include_sqlite": false, "numeric_version": "1"}
